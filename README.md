@@ -1,2 +1,2 @@
 # hackerrank.com
-A repo with solutions
+Just a repo with solutions for hackerrank.com exercises.
